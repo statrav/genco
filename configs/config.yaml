@@ -1,0 +1,7 @@
+params:
+  base:
+    model_id : "openai/clip-vit-base-patch32"
+    dataset_name : "coco"
+    pos : "verb"
+  exp:
+    rep : 1
